@@ -12,6 +12,8 @@ import hello.core.order.OrderServiceImpl;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
+import java.lang.annotation.Target;
+
 @Configuration
 public class AppConfig {
 
